@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class receipt {
+public class receipt  {
 
     public static void main(String[] args) {
         /* Print out our Introduction of our Store/Company and Address */
